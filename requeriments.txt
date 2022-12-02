@@ -1,0 +1,7 @@
+pandas
+numpy
+mlflow
+scikit-learn
+hyperopt
+plotly
+seaborn
